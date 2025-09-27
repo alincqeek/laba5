@@ -12,3 +12,18 @@ C:\Работы студентов\Laba5_Vahrusheva_Kuznecov_ISP-233\obj\Debug\n
 C:\Работы студентов\Laba5_Vahrusheva_Kuznecov_ISP-233\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.pdb
 C:\Работы студентов\Laba5_Vahrusheva_Kuznecov_ISP-233\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.genruntimeconfig.cache
 C:\Работы студентов\Laba5_Vahrusheva_Kuznecov_ISP-233\obj\Debug\net8.0\ref\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\refint\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.pdb
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.GeneratedMSBuildEditorConfig.editorconfig
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.AssemblyInfoInputs.cache
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.AssemblyInfo.cs
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.csproj.CoreCompileInputs.cache
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.sourcelink.json
+E:\Алины\проекты\alincqeek\laba5\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.exe
+E:\Алины\проекты\alincqeek\laba5\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.deps.json
+E:\Алины\проекты\alincqeek\laba5\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.runtimeconfig.json
+E:\Алины\проекты\alincqeek\laba5\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+E:\Алины\проекты\alincqeek\laba5\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.pdb
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.genruntimeconfig.cache
+E:\Алины\проекты\alincqeek\laba5\obj\Debug\net8.0\ref\Laba5_Vahrusheva_Kuznecov_ISP-233.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\\u0410\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F2A82F-7608-4131-8A05-C0E21F144F4B}|Laba5_Vahrusheva_Kuznecov_ISP-233.csproj|e:\\\u0430\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A82F-7608-4131-8A05-C0E21F144F4B}|Laba5_Vahrusheva_Kuznecov_ISP-233.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u0410\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u0410\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\\u0410\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAArwGAAAAAQAAAAAAAAAA==",
+              "ToolTip": "E:\\\u0410\u043B\u0438\u043D\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\alincqeek\\laba5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T10:54:16.329Z",
+              "WhenOpened": "2025-09-27T16:33:39.577Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laba5_Vahrusheva_Kuznecov_ISP-233")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f6b69b2caedd6d3d1ebb2f9585b85ffb1b31b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laba5_Vahrusheva_Kuznecov_ISP-233")]

@@ -68,17 +68,28 @@
 //Console.WriteLine(number);
 
 
-void Hello() => Console.WriteLine("Hello");
-void Goodbye() => Console.WriteLine("Good Bye");
+//void Hello() => Console.WriteLine("Hello");
+//void Goodbye() => Console.WriteLine("Good Bye");
 
-string General() {
-    string[] weather = ["Sun", "Windy", "Rainy"];
-    Random random = new Random();
-    int index = random.Next(weather.Length);
-    return weather[index];
-}
+//string General() {
+//    string[] weather = ["Sun", "Windy", "Rainy"];
+//    Random random = new Random();
+//    int index = random.Next(weather.Length);
+//    return weather[index];
+//}
 
 
-Hello();
-Console.WriteLine(General());
-Goodbye();
+//Hello();
+//Console.WriteLine(General());
+//Goodbye();
+
+//int Factorial(int n) { 
+//if (n==1) return 1;
+//return n*Factorial(n-1);
+//}
+//int factorial1=Factorial(4);
+//int factorial2 = Factorial(5);
+//int factorial3 = Factorial(6);
+//Console.WriteLine(factorial1);
+//Console.WriteLine(factorial2);
+//Console.WriteLine(factorial3);
